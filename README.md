@@ -19,10 +19,6 @@ This is a Streamlit-based AI application that allows users to upload PDFs and ch
 - HuggingFace Embeddings
 - Groq LLM
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
 
 📌 Author
 -Tejpratap Singh
